@@ -1,0 +1,37 @@
+//What is difference between public and private repo?
+So in public repository any user can access the project storage who is having the gihub repository url.
+where as in private repositories user can access it by gaining the access from the root user.
+
+//Figure out ways to clone the repo?
+- One way of cloning the project is using cmd by using command git clone "Url of Repository".
+- We can clone the project by using the url in intellij.
+- we can directly download the zip folder of the project from github(X Note this a bad practice X)
+
+//Understand differences between Local & Remote Repo?
+
+Local repositories reside on the computers of team members
+
+emote repositories are hosted on a server that is accessible for all team members
+
+//What are GIT commands? Get familiar with GIT Push, GIT Pull, GIT Commit & Other GIT Commands?
+
+Command	Description
+git init              	        Initializes a new Git repository in the current folder.
+git clone <repo_url>	        Clones a remote repo to your local system.
+git status             	        Displays the state of the working directory and staging area.
+git add <filename>	            Adds a specific file to staging.
+git add 	                    Stages all modified files.
+git commit -m "your message"	Commits staged files with a message.
+git push origin <branch>	    Pushes local commits to a remote branch.
+git pull origin <branch>	    Pulls changes from a remote branch and merges.
+git branch <branch-name>	    Creates a new branch.
+git branch	                    Lists all local branches.
+git checkout <branch-name>	    Switches to an existing branch.
+git checkout -b <new-branch>	Creates and checks out a new branch.
+git merge <branch-name>	        Merges the specified branch into the current one.
+
+
+//What are instance methods in java?
+
+Instance methods in Java are functions defined within a class that operate on specific  instances (objects) of that class
+

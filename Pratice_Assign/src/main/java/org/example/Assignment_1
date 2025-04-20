@@ -1,0 +1,24 @@
+
+//    What is git repo?
+   a directory or folder that stores a project's files and their entire history of changes,
+   enabling version control and collaboration
+
+//    What are branches in git?
+A branch is often used for new features and fixing bugs.
+It allows you to work without impacting the main codebase.
+
+//    How to push a file to git repo?
+
+We can push a file to git repository using git push command
+
+//    What are packages in java?
+ Package is a collection of classes and interfaces.
+
+//    What are access modifiers in java?
+
+access identifiers are used to set parameters between each class accessibility
+ where these parameters are used to limit accessibility between a class or method or field
+  -- Types of access modifiers
+     --Public
+     --Private
+     -- Protected
